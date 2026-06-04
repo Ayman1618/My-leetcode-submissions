@@ -6,9 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
