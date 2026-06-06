@@ -16,4 +16,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
