@@ -24,8 +24,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
