@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
+| [3660-jump-game-ix](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3660-jump-game-ix](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
