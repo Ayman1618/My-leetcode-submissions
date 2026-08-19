@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [3660-jump-game-ix](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3660-jump-game-ix](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
 ## Memoization
@@ -41,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/1143-longest-common-subsequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0931-minimum-falling-path-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 <!---LeetCode Topics End-->
