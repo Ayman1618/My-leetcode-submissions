@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/2498-frog-jump-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -47,4 +48,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/2498-frog-jump-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/2498-frog-jump-ii/) | Medium |
 <!---LeetCode Topics End-->
