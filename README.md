@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/2498-frog-jump-ii/) | Medium |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
