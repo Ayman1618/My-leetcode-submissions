@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/1143-longest-common-subsequence/) | Medium |
