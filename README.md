@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0125-valid-palindrome](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
