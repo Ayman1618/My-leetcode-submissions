@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
