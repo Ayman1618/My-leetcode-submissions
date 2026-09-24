@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0704-binary-search/) | Easy |
 | [2498-frog-jump-ii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/2498-frog-jump-ii/) | Medium |
 ## Greedy
