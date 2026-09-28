@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0401-binary-watch](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0401-binary-watch/) | Easy |
 ## Bit Manipulation
