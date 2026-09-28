@@ -115,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0401-binary-watch/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
