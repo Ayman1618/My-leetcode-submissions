@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0046-permutations/) | Medium |
+| [0056-merge-intervals](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 ## Stack
@@ -139,5 +141,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Ayman1618/My-leetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
